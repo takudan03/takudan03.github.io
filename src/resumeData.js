@@ -1,5 +1,5 @@
 let resumeData = {
-  "imagebaseurl": "https://rbhatia46.github.io/",
+  "imagebaseurl": "https://takudan03.github.io/",
   "name": "Takudzwa Francis Dangwa",
   "role": "Full-Stack Developer",
   "linkedinId": "https://hu.linkedin.com/in/takudzwa-francis-dangwa-42b9a620b",
@@ -23,22 +23,15 @@ let resumeData = {
       "className": "fa fa-twitter"
     }
   ],
-  "aboutme": "I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
+  "aboutme": "As a gradute software developer(Bsc in Computer Science), I am currently working on expanding my portfolio in pursuit of mastery in the craft. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them. This is what I am putting into practice.",
   "address": "Budapest, Hungary",
-  "website": "https://rbhatia46.github.io",
+  "website": "https://takudan03.github.io/",
   "education": [
     {
       "UniversityName": "University of Debrecen (Hungary)",
       "specialization": "Bachelor in Computer Science",
       "MonthOfPassing": "June",
       "YearOfPassing": "2022"
-    },
-    {
-      "UniversityName": "Some University",
-      "specialization": "Some specialization",
-      "MonthOfPassing": "Jan",
-      "YearOfPassing": "2018",
-      "Achievements": "Some Achievements"
     }
   ],
   "work": [
